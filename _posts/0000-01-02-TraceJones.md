@@ -5,6 +5,6 @@ title: "welcome to our second slide!"
 
 ---
 
-Your text
+Trace Jones
 
 Use the left arrow to go back!
